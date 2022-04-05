@@ -1,6 +1,6 @@
-<p align=”center”>
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/64771949/161833902-cb9d0cd2-da7a-4e2d-a1cc-e3280b19a5a8.png" alt=”my banner”>
-</p>
+<!-- <p align=”center”>
+<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/64771949/161833902-cb9d0cd2-da7a-4e2d-a1cc-e3280b19a5a8.png" alt=””>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm Jitendra Meena</h1>
 <h3 align="center">Python Developer</h3>
