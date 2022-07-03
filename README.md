@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Python/Django Projects**
 
-- 🌱 I’m currently learning **Fast API**
+- 🌱 I’m currently learning **Google Cloud Plateform and AWS services**
 
 - 📫 How to reach me **jitendrameena9575@gmail.com**
 
