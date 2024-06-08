@@ -5,6 +5,8 @@
 <h1 align="center">Hi 👋, I'm Jitendra Meena</h1>
 <h3 align="center">Python Developer</h3>
 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Jitendra+Meena;A+passionate+Python+Developer" alt="Typing SVG"  width='70%'/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendra-meena&label=Profile%20views&color=0e75b6&style=flat" alt="jitendra-meena" /> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/@jitendr43854679" target="blank"><img src="https://img.shields.io/twitter/follow/@jitendr43854679?logo=twitter&style=for-the-badge" alt="@jitendr43854679" /></a> </p> -->
