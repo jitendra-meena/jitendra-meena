@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Google Cloud Plateform and AWS services**
 
-- 📫 How to reach me **jitendrameena9575@gmail.com**
+- 📫 How to reach me **developerjitendrameena@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
